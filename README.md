@@ -1,6 +1,6 @@
 # Lane Detection and turn prediction
 ## Overview
-An algorithm for lane detection and turn prediction for a self-driving
+An algorithm for lane detection and turn prediction for self-driving
 vehicles.
 
 
